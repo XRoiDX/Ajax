@@ -37,7 +37,7 @@ ______________________________________"""
 
 <code>/batch https://t.me/MWUpdatez/3 https://t.me/MWUpdatez/8</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/MWUpdatez><b>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://bit.ly/3EFfkJN><b>𝙳𝚎𝚋𝚞𝚐𝚐𝚎𝚛 𝙱𝚘𝚢</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
@@ -50,13 +50,13 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 3. /Runs - Jokes 
 4. /Goal or /Shoot - To Make A Goal Or Shoot
 5. /luck or /cownd - Spin the Lucky"""
-    DEPLOY_TXT = """<b>𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈..?</b> 
+    DEPLOY_TXT = """<b>𝙾𝚄𝚁 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙻𝙸𝚂𝚃</b> 
   
-<b>✮ Deploy Tutorial ››</b> <i><b>https://youtu.be/kB9TkCs8cX0</b></i>
+<b>✮ 𝙼𝙻𝙼 𝙽𝙴𝚆 𝙼𝙾𝚅𝙸𝙴𝚂 ››</b> <i><b>https://t.me/+wfEnWYW80JEwY2Y1</b></i>
 
 <b>Share and Subscribe</b>
 
-Credits ›› <a href=https://t.me/MWUpdatez><b>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</b></a>"""
+Credits ›› <a href=https://bit.ly/3EFfkJN><b>𝙳𝚎𝚋𝚞𝚐𝚐𝚎𝚛 𝙱𝚘𝚢</b></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
@@ -81,7 +81,7 @@ Credits ›› <a href=https://t.me/MWUpdatez><b>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃�
 
 𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/OpusTechz>𝙾𝙿𝚄𝚂-𝚃𝙴𝙲𝙷𝚉</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://bit.ly/3EFfkJN>𝙳𝚎𝚋𝚞𝚐𝚐𝚎𝚛 𝙱𝚘𝚢</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>Pin :</b>
 
@@ -167,11 +167,11 @@ Delete A Lot Of Messages From Groups!
 ◉ /purge :- Delete All Messages From The Replied To Message, To The Current Message"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
--ᗩᒍᗩ᙭  Supports both url and alert inline buttons.
+-𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛  Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ᗩᒍᗩ᙭ supports buttons with any telegram media type.
+2. 𝙱𝚕𝚊𝚌𝚔 𝙿𝚊𝚗𝚝𝚑𝚎𝚛 supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
@@ -306,7 +306,7 @@ This module only works for my admins
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/MWUpdatez>𝙼𝚆-𝚄𝙿𝙳𝙰𝚃𝙴𝚉</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://bit.ly/3EFfkJN>𝙳𝚎𝚋𝚞𝚐𝚐𝚎𝚛 𝙱𝚘𝚢</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
