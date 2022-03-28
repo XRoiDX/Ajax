@@ -11,7 +11,7 @@ from plugins.helper_functions.cust_p_filters import f_onw_fliter
 ALIVE = "ചത്തിട്ടില്ല മുത്തേ ഇവിടെ തന്നെ ഉണ്ട്.. നിനക്ക് ഇപ്പൊ എന്നോട് ഒരു സ്നേഹവും ഇല്ല. കൊള്ളാം.. നീ പാഴെ പോലെയേ അല്ല മാറിപോയി..😔 ഇടക്ക് എങ്കിലും ചുമ്മാ ഒന്ന് /start ചെയ്തു നോക്ക്..🙂" 
 GITPROFILE = "<b>𝙶𝙸𝚃𝙷𝚄𝙱 ›› https://bit.ly/3NqmeYU</b>"
 CHANNEL = "<b>𝙶𝙸𝚃𝙷𝚄𝙱 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 > ›› https://bit.ly/3NqmeYU\n\n<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/+wfEnWYW80JEwY2Y1</b>\n\n<b>𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/+wfEnWYW80JEwY2Y1</b>"
-AJAX = "<b>𝙱𝙾𝚃 ›› https://t.me/Devil0Bot_Bot</b>"
+NEXTV = "<b>𝙱𝙾𝚃 ›› https://t.me/Devil0Bot_Bot</b>"
 # -- Constants End -- #
 
 
@@ -44,8 +44,8 @@ async def channel(_, message):
     await message.reply_text(CHANNEL)
 
 
-@Client.on_message(filters.command("ajax", COMMAND_HAND_LER) & f_onw_fliter)
+@Client.on_message(filters.command("nextvdownload", COMMAND_HAND_LER) & f_onw_fliter)
 async def ajax(_, message):
-    await message.reply_text(AJAX)
+    await message.reply_text(NEXTV)
 
 
