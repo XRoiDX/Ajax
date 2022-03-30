@@ -102,7 +102,7 @@ async def start(client, message):
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action("Typing")
         m=await message.reply_sticker("CAACAgUAAxkBAAECIr5iO9WX3hxMNvuFDl-Yzsyl_RmXqAACIAMAAuPE8FZfiZ1pV5P2eh4E") 
-        await asyncio.sleep(2)
+        await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
             photo=random.choice(PICS),
