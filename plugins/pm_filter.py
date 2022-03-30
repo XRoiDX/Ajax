@@ -784,7 +784,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],[
             InlineKeyboardButton('G-Tʀᴀɴꜱ🚡', callback_data='gtrans'),
             InlineKeyboardButton('Fɪʟᴇ-Sᴛᴏʀᴇ🗂️', callback_data='newdata'),
-            InlineKeyboardButton('Sᴛᴀᴛᴜꜱ Oꜰ Bᴏᴛ', callback_data='stats')
+            InlineKeyboardButton('Sᴛᴀᴛᴜꜱ Oꜰ Bᴏᴛ🤖', callback_data='stats')
             ],[
             InlineKeyboardButton('Oᴜʀ Cʜᴀɴɴᴇʟꜱ Lɪꜱᴛ', callback_data='deploy')
             ],[
@@ -1131,7 +1131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "stats":
         buttons = [[
             InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='help'),
-            InlineKeyboardButton('𝚁𝙴𝙵𝚁𝙴𝚂𝙷', callback_data='rfrsh')
+            InlineKeyboardButton('∞ 𝚁𝙴𝙵𝚁𝙴𝚂𝙷 ∞', callback_data='rfrsh')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         total = await Media.count_documents()
