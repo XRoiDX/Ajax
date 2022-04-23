@@ -791,6 +791,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➨ Bᴀᴄᴋ ➨', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)       
+        m=await query.message.reply_text("▣▢▢")
+        n=await m.edit("▣▣▢")
+        o=await n.edit("▣▣▣")
+        await asyncio.sleep(1)
+        await o.delete()
         await query.message.edit_text(
             text="𝙸𝙰𝙼 𝙻𝙾𝙰𝙳𝙸𝙽𝙶"
         )
@@ -807,6 +812,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔐 𝙲𝙻𝙾𝚂𝙴 🔐', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
+        m=await query.message.reply_text("▣▢▢")
+        n=await m.edit("▣▣▢")
+        o=await n.edit("▣▣▣")
+        await asyncio.sleep(1)
+        await o.delete()
         await query.message.edit_text(
             text="𝙸𝙰𝙼 𝙻𝙾𝙰𝙳𝙸𝙽𝙶"
         )
@@ -820,6 +830,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='help')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
+        m=await query.message.reply_text("▣▢▢")
+        n=await m.edit("▣▣▢")
+        o=await n.edit("▣▣▣")
+        await asyncio.sleep(1)
+        await o.delete()
         await query.message.edit_text(
             text=script.RESTRIC_TXT,
             disable_web_page_preview=True,
